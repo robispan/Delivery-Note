@@ -19,6 +19,6 @@
     "utf8": "^3.0.0"
   },
   "devDependencies": {
-    "electron-packager": "^12.2.0"
+    "electron-packager": "^16.0.0"
   }
 }
